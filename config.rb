@@ -10,3 +10,4 @@ set :ip, config[:ip]
 set :env, config[:env]
 set :hostname, config[:host_name]
 set :app_name, config[:app_name]
+set :public_folder, 'lib/_site'
